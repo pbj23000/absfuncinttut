@@ -1,7 +1,5 @@
 package cj.mf;
 
-import java.util.Enumeration;
-import java.util.List;
 import java.util.Properties;
 
 /**
@@ -16,7 +14,7 @@ public class App {
         p.list(System.out);
 
         System.out.println("command line arguments:");
-        for (String s: args) {
+        for (String s : args) {
             System.out.println(s);
         }
 
