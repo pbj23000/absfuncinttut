@@ -5,10 +5,13 @@ This is my readme file. It's awesome!
 Maybe that's something!
 
 To build:
+
     mvn clean package
 
 To make documentation:
+
     mvn site
 
 To run:
+
     mvn exec:java
