@@ -1,8 +1,8 @@
-This is my readme file. It's awesome!
-
 [![Build Status](https://travis-ci.org/pbj23000/absfuncinttut.svg?branch=master)](https://travis-ci.org/pbj23000/absfuncinttut)
 
-Maybe that's something!
+This code demonstrates how to design and extend for Java 8's FunctionInterface and
+how to use Lambda Expressions to pass code to them.
+
 
 To build:
 
